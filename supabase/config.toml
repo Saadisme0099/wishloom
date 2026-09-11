@@ -1,0 +1,4 @@
+project_id = "eohrmlftexayzgiaedpq"
+
+[functions.public-gift]
+verify_jwt = false
